@@ -27,3 +27,6 @@
 
 # Ignore JetBrains IDE configuration files
 /.idea
+
+# Ignore dotenv configuration file
+.env
