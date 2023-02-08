@@ -30,3 +30,6 @@
 
 # Ignore dotenv configuration file
 .env
+
+# Ignore code coverage files
+/coverage/*
